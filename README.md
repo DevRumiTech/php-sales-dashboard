@@ -2,6 +2,11 @@ PHP Sales Dashboard
 
 A backend-focused sales dashboard built with PHP and SQL to visualize and manage sales data.
 
+Screenshots
+
+![Dashboard](screenshots/dashboard.png)
+
+
 Tech Stack
 - PHP
 - SQL (MySQL)
